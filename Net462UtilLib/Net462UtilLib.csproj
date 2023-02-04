@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net462</TargetFramework>
+    <AssemblyName>UtilLib.net462</AssemblyName>
+  </PropertyGroup>
+
+</Project>
